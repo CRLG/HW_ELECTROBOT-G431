@@ -1076,6 +1076,17 @@
 		)
 		(uuid "a980f744-b95e-405a-b8b6-d4b1a64273fb")
 	)
+	(label "Eana4"
+		(at 111.76 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "008d6c2e-08fe-42a7-ae27-a6e0f4e8746f")
+	)
 	(label "+5V"
 		(at 147.32 57.15 0)
 		(fields_autoplaced yes)
@@ -1099,7 +1110,7 @@
 		(uuid "19c80194-faca-46e2-82c2-c69663b85d0c")
 	)
 	(label "Moteur2_Sens2"
-		(at 111.76 93.98 0)
+		(at 111.76 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1197,8 +1208,8 @@
 		)
 		(uuid "805c215c-faee-4ff8-a8fe-5042b7c8fcd7")
 	)
-	(label "Moteur2_Sens1"
-		(at 111.76 91.44 0)
+	(label "Moteur1_Sens1"
+		(at 111.76 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1230,7 +1241,7 @@
 		)
 		(uuid "8a459cef-fdd3-43bb-9282-d7905f2f1ea9")
 	)
-	(label "Moteur1_Sens1"
+	(label "Moteur2_Sens1"
 		(at 111.76 78.74 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1240,6 +1251,17 @@
 			(justify left bottom)
 		)
 		(uuid "9c220e37-70e0-4f7b-ab43-7d0e9f439f92")
+	)
+	(label "Servo3_PWM"
+		(at 111.76 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d681694-3b0c-4a2f-a0fe-e1e6fda42bab")
 	)
 	(label "I2C_SCL"
 		(at 111.76 68.58 0)
