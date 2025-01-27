@@ -6253,7 +6253,7 @@
 		)
 		(uuid "4ffd98c6-6401-47bf-976c-eff107638d9f")
 	)
-	(label "Eana1"
+	(label "Eana1f"
 		(at 156.21 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6462,7 +6462,7 @@
 		)
 		(uuid "7b528ae3-f124-49a5-a5e2-16ff08480728")
 	)
-	(label "Eana2"
+	(label "Eana2f"
 		(at 156.21 96.52 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6748,7 +6748,7 @@
 		)
 		(uuid "c103bae9-f1b7-496a-bfed-f35c9cc9930a")
 	)
-	(label "Eana3"
+	(label "Eana3f"
 		(at 156.21 101.6 0)
 		(fields_autoplaced yes)
 		(effects
